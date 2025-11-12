@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema dasar untuk aplikasi Compose -->
+    <style name="Theme.Eunoia" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Status bar transparan biar halus -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+
+</resources>
