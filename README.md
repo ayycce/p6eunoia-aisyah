@@ -43,17 +43,17 @@ This application is a complete and creative modification of the base module, foc
 
 ### 📸 Screenshots
 
-**PENTING:** Upload gambarmu ke folder `screenshots` di GitHub, lalu ganti nama filenya di bawah ini.
+**PENTING:** Pastikan nama file di bawah ini (e.g., home.jpg) sama persis dengan nama file yang kamu upload ke folder 'screenshots'.
 
 | Onboarding (Welcome & Name) | Onboarding (Hello & Start) |
 | :---: | :---: |
-| <img src="screenshots/onboard_1.png" width="300"> | <img src="screenshots/onboard_2.png" width="300"> |
+| <img src="screenshots/onboard_1.jpg" width="300"> | <img src="screenshots/onboard_2.jpg" width="300"> |
 | **Home Screen (Aesthetic List)** | **Calendar (Grid & List)** |
-| <img src="screenshots/home.png" width="300"> | <img src="screenshots/calendar.png" width="300"> |
+| <img src="screenshots/home.jpg" width="300"> | <img src="screenshots/calendar.jpg" width="300"> |
 | **New Entry (with Pickers)** | **Detail Screen (Aesthetic Read)** |
-| <img src="screenshots/new_entry.png" width="300"> | <img src="screenshots/detail.png" width="300"> |
+| <img src="screenshots/new_entry.jpg" width="300"> | <img src="screenshots/detail.jpg" width="300"> |
 | **Insights (Stats & Chart)** | **Settings (Clean Menu)** |
-| <img src="screenshots/insights.png" width="300"> | <img src="screenshots/settings.png" width="300"> |
+| <img src="screenshots/insights.jpg" width="300"> | <img src="screenshots/settings.jpg" width="300"> |
 
 ### 🚀 Getting Started
 
