@@ -4,7 +4,7 @@
 
 Your personal, aesthetic, and private space to reflect and grow. This is a modern, local-first Android journaling application built with 100% Jetpack Compose.
 
-![Eunoia Home Screen Banner](URL_UNTUK_BANNER_HOMESCREEN_MU)
+![https://i.pinimg.com/736x/02/6b/54/026b54ce2d7d0c713a72498719ea9494.jpg]
 
 ---
 
@@ -43,23 +43,22 @@ This application is a complete and creative modification of the base module, foc
 
 ### 📸 Screenshots
 
-*(Ganti `URL_...` ini dengan link ke screenshot-mu setelah kamu meng-upload-nya ke GitHub, Google Drive, atau Imgur)*
 
 | Onboarding (Welcome & Name) | Onboarding (Hello & Start) |
 | :---: | :---: |
-| <img src="URL_SCREENSHOT_ONBOARDING_1_&_2" width="300"> | <img src="URL_SCREENSHOT_ONBOARDING_3_&_4" width="300"> |
+| <img src="https://drive.google.com/file/d/1mUBQDNInd0136BJ7VL-uJe1NVMEiR0zn/view?usp=drive_open" width="300"> | <img src="https://drive.google.com/file/d/1dcd0HqxRzaFWYj9ndvYTnIR__7jheURH/view" width="300"> |
 | **Home Screen (Aesthetic List)** | **Calendar (Grid & List)** |
-| <img src="URL_SCREENSHOT_HOME" width="300"> | <img src="URL_SCREENSHOT_CALENDAR" width="300"> |
+| <img src="https://drive.google.com/file/d/16h2vm8nzdRGRk-M9Gwt4TfhaTp-f3f3O/view" width="300"> | <img src="https://drive.google.com/file/d/17TUiMdFYaLXRLMMMOnC0t1tUBj8c4P2k/view" width="300"> |
 | **New Entry (with Pickers)** | **Detail Screen (Aesthetic Read)** |
-| <img src="URL_SCREENSHOT_NEW_ENTRY" width="300"> | <img src="URL_SCREENSHOT_DETAIL" width="300"> |
+| <img src="https://drive.google.com/file/d/1vReOf4YoPxdePbjW_ubhyoZb4y_OXm2l/view" width="300"> | <img src="https://drive.google.com/file/d/1GhWvqUxTNTQ6DbvYOBI14O5tIW2LZIBw/view" width="300"> |
 | **Insights (Stats & Chart)** | **Settings (Clean Menu)** |
-| <img src="URL_SCREENSHOT_INSIGHTS" width="300"> | <img src="URL_SCREENSHOT_SETTINGS" width="300"> |
+| <img src="https://drive.google.com/file/d/1LvRPohy7ndMsvvFT4n2A9fpnFHZMJoiJ/view" width="300"> | <img src="https://drive.google.com/file/d/1buqbCAorshXoyRRKp7ilsX3ncy_8sSRk/view" width="300"> |
 
 ### 🚀 Getting Started
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/Namamu/p6eunoia-aisyah.git](https://github.com/Namamu/p6eunoia-aisyah.git)
+    git clone [https://github.com/ayycce/p6eunoia-aisyah.git](https://github.com/ayycce/p6eunoia-aisyah.git)
     ```
 2.  Open the project in **Android Studio** (Iguana 🦎 or newer recommended).
 3.  Ensure you have the Android SDK 34 installed.
@@ -71,4 +70,4 @@ This application is a complete and creative modification of the base module, foc
 
 * This project is based on the **Praktikum 6 Modul "Menggunakan Database Lokal"** for Mobile Programming.
 * [cite_start]Guidance from lecturer: **Muhayat, M.IT.** [cite: 9]
-* Special thanks to **Gemini** for the step-by-step guidance and aesthetic modifications. 😉
+* Special thanks to **Gemini and ChatGPT** for the step-by-step guidance and aesthetic modifications. 😉
