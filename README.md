@@ -43,8 +43,6 @@ This application is a complete and creative modification of the base module, foc
 
 ### 📸 Screenshots
 
-**PENTING:** Pastikan nama file di bawah ini (e.g., home.jpg) sama persis dengan nama file yang kamu upload ke folder 'screenshots'.
-
 | Onboarding (Welcome & Name) | Onboarding (Hello & Start) |
 | :---: | :---: |
 | <img src="screenshots/onboard_1.jpg" width="300"> | <img src="screenshots/onboard_2.jpg" width="300"> |
