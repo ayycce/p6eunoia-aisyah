@@ -4,7 +4,7 @@
 
 Your personal, aesthetic, and private space to reflect and grow. This is a modern, local-first Android journaling application built with 100% Jetpack Compose.
 
-![https://i.pinimg.com/736x/02/6b/54/026b54ce2d7d0c713a72498719ea9494.jpg]
+![Eunoia Banner](https://i.pinimg.com/736x/02/6b/54/026b54ce2d7d0c713a72498719ea9494.jpg)
 
 ---
 
@@ -43,16 +43,17 @@ This application is a complete and creative modification of the base module, foc
 
 ### 📸 Screenshots
 
+**PENTING:** Upload gambarmu ke folder `screenshots` di GitHub, lalu ganti nama filenya di bawah ini.
 
 | Onboarding (Welcome & Name) | Onboarding (Hello & Start) |
 | :---: | :---: |
-| <img src="https://drive.google.com/file/d/1mUBQDNInd0136BJ7VL-uJe1NVMEiR0zn/view?usp=drive_open" width="300"> | <img src="https://drive.google.com/file/d/1dcd0HqxRzaFWYj9ndvYTnIR__7jheURH/view" width="300"> |
+| <img src="screenshots/onboard_1.png" width="300"> | <img src="screenshots/onboard_2.png" width="300"> |
 | **Home Screen (Aesthetic List)** | **Calendar (Grid & List)** |
-| <img src="https://drive.google.com/file/d/16h2vm8nzdRGRk-M9Gwt4TfhaTp-f3f3O/view" width="300"> | <img src="https://drive.google.com/file/d/17TUiMdFYaLXRLMMMOnC0t1tUBj8c4P2k/view" width="300"> |
+| <img src="screenshots/home.png" width="300"> | <img src="screenshots/calendar.png" width="300"> |
 | **New Entry (with Pickers)** | **Detail Screen (Aesthetic Read)** |
-| <img src="https://drive.google.com/file/d/1vReOf4YoPxdePbjW_ubhyoZb4y_OXm2l/view" width="300"> | <img src="https://drive.google.com/file/d/1GhWvqUxTNTQ6DbvYOBI14O5tIW2LZIBw/view" width="300"> |
+| <img src="screenshots/new_entry.png" width="300"> | <img src="screenshots/detail.png" width="300"> |
 | **Insights (Stats & Chart)** | **Settings (Clean Menu)** |
-| <img src="https://drive.google.com/file/d/1LvRPohy7ndMsvvFT4n2A9fpnFHZMJoiJ/view" width="300"> | <img src="https://drive.google.com/file/d/1buqbCAorshXoyRRKp7ilsX3ncy_8sSRk/view" width="300"> |
+| <img src="screenshots/insights.png" width="300"> | <img src="screenshots/settings.png" width="300"> |
 
 ### 🚀 Getting Started
 
@@ -69,5 +70,5 @@ This application is a complete and creative modification of the base module, foc
 ### Acknowledgements
 
 * This project is based on the **Praktikum 6 Modul "Menggunakan Database Lokal"** for Mobile Programming.
-* [cite_start]Guidance from lecturer: **Muhayat, M.IT.** [cite: 9]
+* Guidance from lecturer: **Muhayat, M.IT.**
 * Special thanks to **Gemini and ChatGPT** for the step-by-step guidance and aesthetic modifications. 😉
